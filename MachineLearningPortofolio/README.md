@@ -56,3 +56,20 @@ Notebook ini membahas **analisis sentimen pada Twitter menggunakan LSTM (Long Sh
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nailimmnh/PORTOFOLIO/blob/c031825b9840461b57338ea47cc942f4844ab87b/MachineLearningPortofolio/Twitter%20Sentiment%20Analysis%20LSTM.ipynb)  
 
 ---
+### **5️⃣ [Bottle Detection with YOLOv5](https://github.com/nailimmnh/PORTOFOLIO/tree/79d7b5a353faf16caa4e73042fe39e62850923fe/MachineLearningPortofolio/BottleDetection)**  
+📌 **Deskripsi:**  
+Notebook ini menggunakan **YOLOv5** untuk melakukan **deteksi botol dalam video** secara otomatis. Model YOLOv5 yang telah dilatih sebelumnya digunakan untuk mendeteksi objek dalam setiap frame video dan memberikan bounding box serta label pada botol yang terdeteksi. 
+
+🔗 **Buka di Google Colab:**  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nailimmnh/PORTOFOLIO/blob/main/MachineLearningPortofolio/BottleDetection/Bottle_Detection_YOLOv5.ipynb)  
+
+🎥 **Hasil Video Output:**  
+- [Output Video (AVI)](https://github.com/nailimmnh/PORTOFOLIO/blob/main/MachineLearningPortofolio/BottleDetection/output_videos/output_video.avi)  
+
+Notebook ini mencakup:  
+- Instalasi YOLOv5 dan dependensinya  
+- Penggunaan model YOLOv5 untuk mendeteksi botol dalam video  
+- Penyimpanan video hasil deteksi ke dalam file output  
+- Menyimpan dan membagikan hasil video melalui GitHub  
+
+---
