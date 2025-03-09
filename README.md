@@ -18,3 +18,14 @@ Notebook ini membahas konsep dasar **Tensor dalam PyTorch**, yang merupakan stru
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nailimmnh/PORTOFOLIO/blob/main/MachineLearningPortofolio/Intro%20To%20Tensors%20Pytorch.ipynb)  
 
 ---
+### **2️⃣ [Multilayer Perceptrons - Activation Functions](MachineLearningPortofolio/MLP_Activation_Functions.ipynb)**  
+📌 **Deskripsi:**  
+Notebook ini membahas konsep **Multilayer Perceptrons (MLP)**, terutama mengenai **fungsi aktivasi** dalam neural network. Materi yang dibahas meliputi:  
+- Pengertian MLP dalam deep learning  
+- Fungsi aktivasi seperti **ReLU, Sigmoid, dan Tanh**  
+- Implementasi fungsi aktivasi menggunakan **PyTorch**  
+
+🔗 **Buka di Google Colab:**  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nailimmnh/PORTOFOLIO/blob/4776eb3184242c6c69d8d0a0428ffd3f55349ace/MachineLearningPortofolio/MLP_Activation_Functions.ipynb)  
+
+---
