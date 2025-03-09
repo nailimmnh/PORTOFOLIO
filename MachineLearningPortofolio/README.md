@@ -84,3 +84,14 @@ Notebook ini membahas **analisis sentimen di bidang finansial menggunakan Financ
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nailimmnh/PORTOFOLIO/blob/56caedec27e60562681aeea66bf9a8e8fa4709ce/MachineLearningPortofolio/Sentiment%20Analysis%20FinancialBERT.ipynb)  
 
 ---
+### **:seven: [Weather Prediction with RNN](https://github.com/nailimmnh/PORTOFOLIO/blob/b9eb7af1b7968f4d7e3d96a96632a1f802cb0b36/MachineLearningPortofolio/Weather%20Prediciton%20RNN.ipynb)**  
+📌 **Deskripsi:**  
+Notebook ini berfokus pada **prediksi cuaca menggunakan Recurrent Neural Networks (RNN)**. Model ini menggunakan data cuaca historis untuk memprediksi kondisi cuaca di masa depan. Topik yang dibahas meliputi:  
+- Pembersihan dan preprocessing data cuaca  
+- Pemanfaatan **Recurrent Neural Networks (RNN)** untuk prediksi time-series  
+- Evaluasi performa model berdasarkan akurasi prediksi  
+
+🔗 **Buka di Google Colab:**  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nailimmnh/PORTOFOLIO/blob/b9eb7af1b7968f4d7e3d96a96632a1f802cb0b36/MachineLearningPortofolio/Weather%20Prediciton%20RNN.ipynb)  
+
+---
