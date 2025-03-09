@@ -44,3 +44,17 @@ Notebook ini berisi implementasi kode dengan eksperimen yang menunjukkan bagaima
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nailimmnh/PORTOFOLIO/blob/e07c4e8c48004f7b4793580b2a57d7c21fd2ed20/MachineLearningPortofolio/MLP%20Optimization%20Techniques.ipynb)  
 
 ---
+### **4️⃣ [Twitter Sentiment Analysis with LSTM](MachineLearningPortofolio/Twitter%20Sentiment%20Analysis%20LSTM.ipynb)**  
+📌 **Deskripsi:**  
+Notebook ini membahas **analisis sentimen pada Twitter** menggunakan **Long Short-Term Memory (LSTM)**, sebuah jenis jaringan saraf tiruan yang sering digunakan dalam pemrosesan bahasa alami (NLP). Materi yang dibahas meliputi:  
+- Pembersihan dan praproses data teks dari Twitter  
+- Representasi teks menggunakan **Tokenization & Embedding**  
+- Membangun model **LSTM untuk klasifikasi sentimen**  
+- Evaluasi model dengan metrik seperti akurasi dan F1-score  
+
+Notebook ini dilengkapi dengan implementasi kode serta eksperimen untuk melihat performa model dalam mengklasifikasikan sentimen tweet.  
+
+🔗 **Buka di Google Colab:**  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nailimmnh/PORTOFOLIO/blob/e79489ce6cfc6368c3ee566ae28501020732de1c/MachineLearningPortofolio/Twitter%20Sentiment%20Analysis%20LSTM.ipynb)  
+
+---
