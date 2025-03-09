@@ -7,7 +7,7 @@ Selamat datang di portofolio Machine Learning saya! Repo ini berisi berbagai eks
 ## 📘 Daftar Jupyter Notebooks  
 Berikut adalah daftar notebook yang tersedia di repo ini beserta deskripsinya:  
 
-### **1️⃣ [Intro to Tensors in PyTorch](MachineLearningPortofolio/Intro%20To%20Tensors%20Pytorch.ipynb)**  
+### **1️⃣ [Intro to Tensors in PyTorch](https://github.com/nailimmnh/PORTOFOLIO/blob/c031825b9840461b57338ea47cc942f4844ab87b/MachineLearningPortofolio/Intro%20To%20Tensors%20Pytorch.ipynb)**  
 📌 **Deskripsi:**  
 Notebook ini membahas konsep dasar **Tensor dalam PyTorch**, yang merupakan struktur data fundamental dalam deep learning. Topik yang dibahas meliputi:  
 - Pengenalan Tensor dan perannya dalam Machine Learning  
@@ -15,10 +15,10 @@ Notebook ini membahas konsep dasar **Tensor dalam PyTorch**, yang merupakan stru
 - Contoh kode dengan PyTorch untuk memahami penggunaan Tensor dalam model AI  
 
 🔗 **Buka di Google Colab:**  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nailimmnh/PORTOFOLIO/blob/main/MachineLearningPortofolio/Intro%20To%20Tensors%20Pytorch.ipynb)  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nailimmnh/PORTOFOLIO/blob/c031825b9840461b57338ea47cc942f4844ab87b/MachineLearningPortofolio/Intro%20To%20Tensors%20Pytorch.ipynb)  
 
----
-### **2️⃣ [Multilayer Perceptrons - Activation Functions](MachineLearningPortofolio/MLP_Activation_Functions.ipynb)**  
+---  
+### **2️⃣ [Multilayer Perceptrons - Activation Functions](https://github.com/nailimmnh/PORTOFOLIO/blob/c031825b9840461b57338ea47cc942f4844ab87b/MachineLearningPortofolio/MLP_Activation_Functions.ipynb)**  
 📌 **Deskripsi:**  
 Notebook ini membahas konsep **Multilayer Perceptrons (MLP)**, terutama mengenai **fungsi aktivasi** dalam neural network. Materi yang dibahas meliputi:  
 - Pengertian MLP dalam deep learning  
@@ -26,10 +26,10 @@ Notebook ini membahas konsep **Multilayer Perceptrons (MLP)**, terutama mengenai
 - Implementasi fungsi aktivasi menggunakan **PyTorch**  
 
 🔗 **Buka di Google Colab:**  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nailimmnh/PORTOFOLIO/blob/4776eb3184242c6c69d8d0a0428ffd3f55349ace/MachineLearningPortofolio/MLP_Activation_Functions.ipynb)  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nailimmnh/PORTOFOLIO/blob/c031825b9840461b57338ea47cc942f4844ab87b/MachineLearningPortofolio/MLP_Activation_Functions.ipynb)  
 
----
-### **3️⃣ [MLP Optimization Techniques](MachineLearningPortofolio/MLP%20Optimization%20Techniques.ipynb)**  
+---  
+### **3️⃣ [MLP Optimization Techniques](https://github.com/nailimmnh/PORTOFOLIO/blob/c031825b9840461b57338ea47cc942f4844ab87b/MachineLearningPortofolio/MLP%20Optimization%20Techniques.ipynb)**  
 📌 **Deskripsi:**  
 Notebook ini membahas berbagai **teknik optimasi dalam Multi-Layer Perceptron (MLP)** untuk meningkatkan performa model. Beberapa teknik yang dipelajari meliputi:  
 - **Gradient Descent dan Variannya** seperti SGD, Adam, dan RMSprop  
@@ -38,23 +38,21 @@ Notebook ini membahas berbagai **teknik optimasi dalam Multi-Layer Perceptron (M
 - **Batch Normalization & Dropout** untuk meningkatkan stabilitas model  
 - **Hyperparameter Tuning** menggunakan Grid Search dan Random Search  
 
-Notebook ini berisi implementasi kode dengan eksperimen yang menunjukkan bagaimana berbagai teknik optimasi memengaruhi kinerja jaringan saraf tiruan.
+Notebook ini berisi implementasi kode dengan eksperimen yang menunjukkan bagaimana berbagai teknik optimasi memengaruhi kinerja jaringan saraf tiruan.  
 
 🔗 **Buka di Google Colab:**  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nailimmnh/PORTOFOLIO/blob/e07c4e8c48004f7b4793580b2a57d7c21fd2ed20/MachineLearningPortofolio/MLP%20Optimization%20Techniques.ipynb)  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nailimmnh/PORTOFOLIO/blob/c031825b9840461b57338ea47cc942f4844ab87b/MachineLearningPortofolio/MLP%20Optimization%20Techniques.ipynb)  
 
----
-### **4️⃣ [Twitter Sentiment Analysis with LSTM](MachineLearningPortofolio/Twitter%20Sentiment%20Analysis%20LSTM.ipynb)**  
+---  
+### **4️⃣ [Twitter Sentiment Analysis with LSTM](https://github.com/nailimmnh/PORTOFOLIO/blob/c031825b9840461b57338ea47cc942f4844ab87b/MachineLearningPortofolio/Twitter%20Sentiment%20Analysis%20LSTM.ipynb)**  
 📌 **Deskripsi:**  
-Notebook ini membahas **analisis sentimen pada Twitter** menggunakan **Long Short-Term Memory (LSTM)**, sebuah jenis jaringan saraf tiruan yang sering digunakan dalam pemrosesan bahasa alami (NLP). Materi yang dibahas meliputi:  
-- Pembersihan dan praproses data teks dari Twitter  
-- Representasi teks menggunakan **Tokenization & Embedding**  
-- Membangun model **LSTM untuk klasifikasi sentimen**  
-- Evaluasi model dengan metrik seperti akurasi dan F1-score  
-
-Notebook ini dilengkapi dengan implementasi kode serta eksperimen untuk melihat performa model dalam mengklasifikasikan sentimen tweet.  
+Notebook ini membahas **analisis sentimen pada Twitter menggunakan LSTM (Long Short-Term Memory)**, yang merupakan salah satu arsitektur **Recurrent Neural Network (RNN)** yang populer untuk pemrosesan teks. Topik yang dibahas meliputi:  
+- Pembersihan dan preprocessing data teks dari Twitter  
+- Representasi teks menggunakan **Word Embeddings**  
+- Implementasi model **LSTM dengan PyTorch**  
+- Evaluasi performa model dalam mengklasifikasikan sentimen tweet (positif/negatif)  
 
 🔗 **Buka di Google Colab:**  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nailimmnh/PORTOFOLIO/blob/e79489ce6cfc6368c3ee566ae28501020732de1c/MachineLearningPortofolio/Twitter%20Sentiment%20Analysis%20LSTM.ipynb)  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nailimmnh/PORTOFOLIO/blob/c031825b9840461b57338ea47cc942f4844ab87b/MachineLearningPortofolio/Twitter%20Sentiment%20Analysis%20LSTM.ipynb)  
 
 ---
