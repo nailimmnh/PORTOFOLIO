@@ -29,3 +29,15 @@ Notebook ini membahas konsep **Multilayer Perceptrons (MLP)**, terutama mengenai
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nailimmnh/PORTOFOLIO/blob/4776eb3184242c6c69d8d0a0428ffd3f55349ace/MachineLearningPortofolio/MLP_Activation_Functions.ipynb)  
 
 ---
+### **3️⃣ [MLP Optimization Techniques](MachineLearningPortofolio/MLP%20Optimization%20Techniques.ipynb)**  
+📌 **Deskripsi:**  
+Notebook ini membahas berbagai **teknik optimasi dalam Multilayer Perceptrons (MLP)** untuk meningkatkan performa model dalam deep learning. Topik yang dibahas meliputi:  
+- **Algoritma optimasi** seperti **SGD, Adam, dan RMSprop**  
+- **Regularisasi** (L1, L2, Dropout) untuk mencegah overfitting  
+- **Hyperparameter tuning** untuk meningkatkan efisiensi training  
+- Implementasi optimasi menggunakan **PyTorch**  
+
+🔗 **Buka di Google Colab:**  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nailimmnh/PORTOFOLIO/blob/a380655e90318260aae57b83b111064d517aa2bc/MachineLearningPortfolio/MLP%20Optimization%20Techniques.ipynb)  
+
+---
