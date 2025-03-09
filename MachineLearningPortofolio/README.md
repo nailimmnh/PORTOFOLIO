@@ -64,7 +64,7 @@ Notebook ini menggunakan **YOLOv5** untuk melakukan **deteksi botol dalam video*
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nailimmnh/PORTOFOLIO/blob/main/MachineLearningPortofolio/BottleDetection/Bottle_Detection_YOLOv5.ipynb)  
 
 🎥 **Hasil Video Output:**  
-- [Output Video (AVI)](https://github.com/nailimmnh/PORTOFOLIO/blob/main/MachineLearningPortofolio/BottleDetection/output_videos/output_video.avi)  
+- [Output Video (MP4)](https://github.com/nailimmnh/PORTOFOLIO/blob/79d7b5a353faf16caa4e73042fe39e62850923fe/MachineLearningPortofolio/BottleDetection/output_video.mp4)  
 
 Notebook ini mencakup:  
 - Instalasi YOLOv5 dan dependensinya  
