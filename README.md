@@ -1,21 +1,21 @@
 # 🚀 Nailiyatul Mamnunah's Portfolio
 
-Selamat datang di portofolio saya! 🎉 Repo ini adalah kumpulan berbagai proyek, eksplorasi, dan pembelajaran saya dalam berbagai bidang teknologi. Seiring waktu, saya akan terus menambahkan lebih banyak proyek dari berbagai kategori, termasuk:
+Welcome to my portfolio! 🎉 This repository is a collection of various projects, explorations, and learnings across different technology domains. Over time, I will continue adding more projects from various categories, including:
 
-- 🤖 **Machine Learning & Deep Learning**
-- 📊 **Data Analytics & Visualization**
-- Dan masih banyak lagi!
+- 🤖 **Machine Learning & Deep Learning**  
+- 📊 **Data Analytics & Visualization**  
+- And many more!  
 
-## 📂 Struktur Repo
-Saat ini repo ini berisi berbagai kategori, dan masing-masing memiliki folder tersendiri. Beberapa portofolio yang tersedia:
+## 🐂 Repository Structure  
+Currently, this repository contains multiple categories, each with its own dedicated folder. Some available portfolios:  
 
-### 🔹 [Machine Learning Portfolio](MachineLearningPortofolio/README.md)
-Berisi eksplorasi saya dalam bidang Machine Learning dan Deep Learning, menggunakan Python serta pustaka seperti PyTorch dan TensorFlow.
+### 🔹 [Machine Learning Portfolio](MachineLearningPortofolio/README.md)  
+Contains my explorations in the field of Machine Learning and Deep Learning, using Python along with libraries like PyTorch and TensorFlow.  
 
-*(Kategori lain akan segera menyusul! Stay tuned! 🚀)*
+*(More categories coming soon! Stay tuned! 🚀)*  
 
-## 📌 Catatan
-- Semua kode, notebook, dan proyek dalam repo ini dibuat sebagai bagian dari pembelajaran dan eksplorasi saya.
-- Jika ada masukan, pertanyaan, atau saran, jangan ragu untuk membuka **Issue** atau menghubungi saya melalui GitHub!
+## 📌 Notes  
+- All code, notebooks, and projects in this repository are created as part of my learning and exploration.  
+- If you have any feedback, questions, or suggestions, feel free to open an **Issue** or contact me via GitHub!  
 
-Terima kasih sudah berkunjung! ✨
+Thank you for visiting! ✨
