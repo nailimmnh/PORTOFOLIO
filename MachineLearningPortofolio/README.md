@@ -95,3 +95,20 @@ Notebook ini berfokus pada **prediksi cuaca menggunakan Recurrent Neural Network
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nailimmnh/PORTOFOLIO/blob/b9eb7af1b7968f4d7e3d96a96632a1f802cb0b36/MachineLearningPortofolio/Weather%20Prediciton%20RNN.ipynb)  
 
 ---
+### 8️⃣ [Customer Churn Analysis: ANN vs CNN](https://github.com/nailimmnh/PORTOFOLIO/blob/7a8534d5f38f0ae7ef8f30ba7202020dba05eb33/MachineLearningPortofolio/Customer%20Churn%20Analysis/Customer%20Churn%20ANN%20vs%20CNN.ipynb)
+
+📌 **Deskripsi:**  
+Notebook ini membahas **analisis Customer Churn** menggunakan **Artificial Neural Networks (ANN) dan Convolutional Neural Networks (CNN)** untuk membandingkan performa kedua arsitektur dalam memprediksi pelanggan yang akan berhenti berlangganan.  
+
+- **Dataset:** Data pelanggan yang mencakup informasi seperti lama berlangganan, fitur yang digunakan, dan keluhan.  
+- **Model ANN vs CNN:**  
+  - **ANN:** Model fully connected dengan beberapa hidden layer.  
+  - **CNN:** Model yang memanfaatkan konvolusi untuk mencari pola dari data tabular yang diubah menjadi representasi spasial.  
+- **Evaluasi:** Perbandingan akurasi, loss, dan interpretasi hasil.  
+
+🔗 **Buka di Google Colab:**  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/nailimmnh/PORTOFOLIO/blob/7a8534d5f38f0ae7ef8f30ba7202020dba05eb33/MachineLearningPortofolio/Customer%20Churn%20Analysis/Customer%20Churn%20ANN%20vs%20CNN.ipynb)  
+
+📂 **Dokumen Pendukung:**  
+- 📄 [Slides Presentasi](https://docs.google.com/presentation/d/1OM2APlbWlWhrLi7iqOH5_RzAqpEsl_9T8yxuZLLJ0KY/edit?usp=sharing)  
+- 📑 [Dokumen](https://docs.google.com/document/d/1-upG3K9zb1HqTHuR15YHCRCcrLqEX8tA8JaEVyt1MpI/edit?usp=sharing)  
