@@ -73,3 +73,14 @@ Notebook ini mencakup:
 - Menyimpan dan membagikan hasil video melalui GitHub  
 
 ---
+### **6️⃣ [Sentiment Analysis with FinancialBERT](https://github.com/nailimmnh/PORTOFOLIO/blob/56caedec27e60562681aeea66bf9a8e8fa4709ce/MachineLearningPortofolio/Sentiment%20Analysis%20FinancialBERT.ipynb)**  
+📌 **Deskripsi:**  
+Notebook ini membahas **analisis sentimen di bidang finansial menggunakan FinancialBERT**, model berbasis Transformer yang dioptimalkan untuk teks terkait keuangan. Topik yang dibahas meliputi:  
+- Pemrosesan teks finansial dan tokenisasi dengan **FinancialBERT**  
+- Fine-tuning model untuk klasifikasi sentimen positif, negatif, dan netral  
+- Evaluasi performa model dalam konteks data keuangan  
+
+🔗 **Buka di Google Colab:**  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nailimmnh/PORTOFOLIO/blob/56caedec27e60562681aeea66bf9a8e8fa4709ce/MachineLearningPortofolio/Sentiment%20Analysis%20FinancialBERT.ipynb)  
+
+---
