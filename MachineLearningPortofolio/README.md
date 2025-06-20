@@ -71,6 +71,32 @@ This notebook discusses **Customer Churn Analysis** using **Artificial Neural Ne
 
 📂 **Supporting Documents:**  
 - 📄 [Presentation Slides](https://docs.google.com/presentation/d/1OM2APlbWlWhrLi7iqOH5_RzAqpEsl_9T8yxuZLLJ0KY/edit?usp=sharing)  
-- 📑 [Documentation](https://docs.google.com/document/d/1-upG3K9zb1HqTHuR15YHCRCcrLqEX8tA8JaEVyt1MpI/edit?usp=sharing)  
+- 📑 [Documentation](https://docs.google.com/document/d/1-upG3K9zb1HqTHuR15YHCRCcrLqEX8tA8JaEVyt1MpI/edit?usp=sharing)
 
-This repository is constantly updated with new projects and experiments. Feel free to explore and contribute! 🚀
+---
+
+## 🗃️ HR Database Management System
+
+📌 **Description:**  
+A complete HR Information System built as part of an academic project using **Python, SQLite, Tkinter**, and **SQL**. Features include:
+
+- Role-based **GUI interface**
+- Employee data management and CRUD
+- **Payroll automation** (tax, insurance, THR)
+- KPI visualization with **Matplotlib** and **Pandas**
+- Exportable reports to **PDF** and **Excel**
+- Predictive alerts (contract renewal, milestones)
+- Responsive layout and user-friendly theme switching
+
+📂 **All Materials (code, report, slides, demo):**  
+🔗 [Google Drive Folder](https://drive.google.com/drive/folders/1mvCtmuq6c0w6sR7ZOh-wuqxDj5kWcKEb?usp=sharing)
+
+---
+
+## ⚙️ Tools & Technologies Used
+- **Languages:** Python, SQL  
+- **Libraries:** PyTorch, TensorFlow, Pandas, Matplotlib, openpyxl, ReportLab  
+- **Frameworks:** Tkinter GUI, SQLite  
+- **Concepts:** Deep Learning, NLP, Time-Series Forecasting, GUI Development, Data Visualization
+
+---
